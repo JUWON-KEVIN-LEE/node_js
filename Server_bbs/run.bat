@@ -1,0 +1,1 @@
+mongod --dbpath C:\Users\quf93\Desktop\NODE\Server_bbs\datas
